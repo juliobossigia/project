@@ -16,9 +16,6 @@
 - 📱 Design responsivo para todos os dispositivos
 - 🔄 Atualização automática dos dados
 
-## 🖥️ Demonstração
-
-![CryptoVision Demo](https://i.imgur.com/YourImageHere.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
