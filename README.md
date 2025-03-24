@@ -36,7 +36,7 @@
 ### Instalação
 bash
 Clone o repositório
-git clone https://github.com/seu-usuario/cryptovision.git
+git clone https://github.com/juliobossigia/cryptovision.git
 
 Entre na pasta do projeto
 cd cryptovision
